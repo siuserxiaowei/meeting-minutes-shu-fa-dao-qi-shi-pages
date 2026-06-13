@@ -138,7 +138,8 @@ p {
 .panel,
 .article-card,
 .dimension-card,
-.dimension-link {
+.dimension-link,
+.topic-card {
   background: var(--paper);
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -310,6 +311,28 @@ p {
   gap: 12px;
 }
 
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.topic-card {
+  min-height: 180px;
+  padding: 18px;
+  box-shadow: none;
+}
+
+.topic-card h3 {
+  margin-bottom: 8px;
+  color: var(--accent);
+}
+
+.topic-card p {
+  color: var(--muted);
+}
+
 .dimension-card {
   padding: 18px;
   box-shadow: none;
@@ -339,6 +362,15 @@ dt {
 dd {
   margin: 2px 0 0;
   color: var(--muted);
+}
+
+.compact-list {
+  margin: 4px 0 0;
+  padding-left: 20px;
+}
+
+.compact-list li {
+  margin: 6px 0;
 }
 
 .two-col {
@@ -401,6 +433,7 @@ th {
   .dimension-grid,
   .article-grid,
   .dimension-stack,
+  .topic-grid,
   .two-col {
     grid-template-columns: 1fr;
   }
