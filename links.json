@@ -3,17 +3,17 @@
   "home": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/",
   "linksPage": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/links/",
   "dimensions": {
-    "shu": {
-      "label": "术",
-      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/dimensions/shu/"
+    "dao": {
+      "label": "道",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/dimensions/dao/"
     },
     "fa": {
       "label": "法",
       "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/dimensions/fa/"
     },
-    "dao": {
-      "label": "道",
-      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/dimensions/dao/"
+    "shu": {
+      "label": "术",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/dimensions/shu/"
     },
     "qi": {
       "label": "器",
@@ -86,6 +86,12 @@
       "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250617-1023-a7df245b/"
     },
     {
+      "id": "m233",
+      "title": "小象智合_导读",
+      "date": "2025-06-17 16:09",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250617-1609-4ad4dae7/"
+    },
+    {
       "id": "m011",
       "title": "2025-06-17 20:16 记录_导读",
       "date": "2025-06-17 20:16",
@@ -114,6 +120,12 @@
       "title": "2025-07-04 19:29 记录_导读",
       "date": "2025-07-04 19:29",
       "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250704-1929-d7518ae9/"
+    },
+    {
+      "id": "m231",
+      "title": "单片机第一次会议_导读",
+      "date": "2025-07-07 20:44",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250707-2044-18242201/"
     },
     {
       "id": "m016",
@@ -294,6 +306,12 @@
       "title": "2025-09-02 15:05 记录_导读",
       "date": "2025-09-02 15:05",
       "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250902-1505-de16c698/"
+    },
+    {
+      "id": "m232",
+      "title": "央企微雪手环_导读",
+      "date": "2025-09-02 20:27",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250902-2027-18b3bba2/"
     },
     {
       "id": "m046",
@@ -618,6 +636,12 @@
       "title": "2025-10-11 12:26 记录_导读",
       "date": "2025-10-11 12:26",
       "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20251011-1226-37512cef/"
+    },
+    {
+      "id": "m230",
+      "title": "10月11日 AI写作资源合作_导读",
+      "date": "2025-10-11 13:36",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20251011-1336-2b5d3508/"
     },
     {
       "id": "m100",
@@ -1400,28 +1424,22 @@
       "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20260320-2306-4666af3c/"
     },
     {
-      "id": "m230",
-      "title": "10月11日 AI写作资源合作_导读",
-      "date": "2025-10-11 13:36",
-      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20251011-1336-2b5d3508/"
+      "id": "m234",
+      "title": "电商及 AI 业务发展讨论",
+      "date": "2026-06-13 11:49",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20260613-1149-ecommerce-ai-business/"
     },
     {
-      "id": "m231",
-      "title": "单片机第一次会议_导读",
-      "date": "2025-07-07 20:44",
-      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250707-2044-18242201/"
+      "id": "m235",
+      "title": "出海项目经验与问题讨论",
+      "date": "2026-06-13 14:28",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20260613-1428-global-growth-builder/"
     },
     {
-      "id": "m232",
-      "title": "央企微雪手环_导读",
-      "date": "2025-09-02 20:27",
-      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250902-2027-18b3bba2/"
-    },
-    {
-      "id": "m233",
-      "title": "小象智合_导读",
-      "date": "2025-06-17 16:09",
-      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20250617-1609-4ad4dae7/"
+      "id": "m236",
+      "title": "业务发展及招人策略讨论",
+      "date": "2026-06-13 20:52",
+      "url": "https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20260613-2052-business-org-agent/"
     }
   ]
 }

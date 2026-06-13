@@ -5300,5 +5300,38 @@
     "groupName": "小象智合",
     "public": false,
     "publicNote": "raw source is not copied into docs; only sanitized derived fields are public"
+  },
+  {
+    "fileName": "飞书智能纪要-电商及AI业务发展讨论-20260613-1149.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 111,
+    "groupId": "m234",
+    "groupName": "飞书智能纪要-电商及AI业务发展讨论-20260613-1149",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public"
+  },
+  {
+    "fileName": "飞书智能纪要-出海项目经验与问题讨论-20260613-1428.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 124,
+    "groupId": "m235",
+    "groupName": "飞书智能纪要-出海项目经验与问题讨论-20260613-1428",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public"
+  },
+  {
+    "fileName": "飞书智能纪要-业务发展及招人策略讨论-20260613-2052.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 124,
+    "groupId": "m236",
+    "groupName": "飞书智能纪要-业务发展及招人策略讨论-20260613-2052",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public"
   }
 ]
