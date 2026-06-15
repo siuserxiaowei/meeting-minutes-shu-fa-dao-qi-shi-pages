@@ -5302,42 +5302,6 @@
     "publicNote": "raw source is not copied into docs; only sanitized derived fields are public"
   },
   {
-    "fileName": "飞书智能纪要-AI产品应用与转型讨论-20260510-1421.md",
-    "extension": "md",
-    "kind": "guide",
-    "kindLabel": "导读",
-    "size": 5436,
-    "groupId": "m237",
-    "groupName": "飞书智能纪要-AI产品应用与转型讨论-20260510-1421",
-    "public": false,
-    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
-    "supplemental": true
-  },
-  {
-    "fileName": "飞书智能纪要-AI产品开发与获客经验分享-20260510-1845.md",
-    "extension": "md",
-    "kind": "guide",
-    "kindLabel": "导读",
-    "size": 5200,
-    "groupId": "m238",
-    "groupName": "飞书智能纪要-AI产品开发与获客经验分享-20260510-1845",
-    "public": false,
-    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
-    "supplemental": true
-  },
-  {
-    "fileName": "飞书智能纪要-AI教育产品规划与交流-20260510-1956.md",
-    "extension": "md",
-    "kind": "guide",
-    "kindLabel": "导读",
-    "size": 4926,
-    "groupId": "m239",
-    "groupName": "飞书智能纪要-AI教育产品规划与交流-20260510-1956",
-    "public": false,
-    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
-    "supplemental": true
-  },
-  {
     "fileName": "飞书智能纪要-电商及AI业务发展讨论-20260613-1149.md",
     "extension": "md",
     "kind": "guide",

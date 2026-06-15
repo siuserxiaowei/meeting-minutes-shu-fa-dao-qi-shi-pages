@@ -9,12 +9,6 @@
 - 全部文章链接清单：https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/links/
 - 源码仓库：https://github.com/siuserxiaowei/meeting-minutes-shu-fa-dao-qi-shi
 
-最近补充的飞书智能纪要拆解：
-
-- AI 产品应用与转型讨论：https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20260510-1421-ai-product-transformation/
-- AI 产品开发与获客经验分享：https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20260510-1845-ai-product-growth-playbook/
-- AI 教育产品规划与交流：https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/articles/20260510-1956-ai-education-product-plan/
-
 ## 仓库说明
 
 本仓库是 `meeting-minutes-shu-fa-dao-qi-shi` 的公开发布产物仓库。源仓库负责抓取、解析、拆解、脱敏校验和构建；本仓库负责托管 GitHub Pages。
@@ -76,3 +70,12 @@ git push origin main
 - https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/
 - https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/config/
 - https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/links/
+
+## 独立拆分仓库
+
+2026-05-10 的 3 篇飞书 AI 产品纪要已经拆到独立仓库，不再放在本大站顶部入口：
+
+```text
+https://github.com/siuserxiaowei/ai-product-feishu-breakdowns-20260510
+https://siuserxiaowei.github.io/ai-product-feishu-breakdowns-20260510/config/
+```
