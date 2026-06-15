@@ -1,5 +1,69 @@
 # 道法术器势会议拆解站（公开发布版）
 
+<!-- SIUSER-REPO-GUIDE:START -->
+## Repository Guide
+
+### What This Repository Does
+
+公开 GitHub Pages：道法术器势会议拆解站，含文章、维度索引、配置页和在线链接
+
+### Online Entry Points
+
+- GitHub repository: https://github.com/siuserxiaowei/meeting-minutes-shu-fa-dao-qi-shi-pages
+- Live / GitHub Pages: https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/
+- Default branch: `main`
+- Primary language: `HTML`
+
+### How To Read / Learn This Repository
+
+1. 先读本 README，确认项目目标、在线入口和本地运行方式。
+2. 打开上方 Live / GitHub Pages 链接，先从最终效果理解项目。
+3. 优先阅读线上页面或 `index.html`，再看 `data/`、`assets/`、`scripts/` 等生成材料。
+4. 如果要修改内容，先小范围改动，再运行本 README 中的验证命令。
+
+### Clone This Repository
+
+```bash
+git clone https://github.com/siuserxiaowei/meeting-minutes-shu-fa-dao-qi-shi-pages.git
+cd meeting-minutes-shu-fa-dao-qi-shi-pages
+```
+
+### Run Or View Locally
+
+```bash
+python3 -m http.server 8000
+```
+
+然后打开 `http://127.0.0.1:8000/`。
+
+### Repository Map
+
+| Path | Purpose |
+| --- | --- |
+| `README.md` | 项目入口说明，先读这里。 |
+| `index.html` | 静态站首页或页面入口。 |
+| `data/` | 数据、索引或结构化内容。 |
+| `assets/` | 图片、样式、字体或页面资源。 |
+| `articles/` | 项目目录。 |
+| `config/` | 项目目录。 |
+| `dimensions/` | 项目目录。 |
+| `links.json` | 项目文件。 |
+| `links/` | 项目目录。 |
+
+### Maintenance Notes
+
+- Keep this README in sync when the project purpose, live link, or run commands change.
+- Prefer small, focused commits when changing code, data, or generated pages.
+- Run the relevant build or validation command before publishing changes.
+- If this is a generated/static archive, update the source data first, then regenerate the public files.
+
+### Privacy And Safety
+
+- Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
+- Keep private source material out of public GitHub Pages output unless it has been explicitly cleared for publication.
+- When in doubt, run a quick secret scan such as `rg -n "token|secret|password|access_key|authorization"` before pushing.
+<!-- SIUSER-REPO-GUIDE:END -->
+
 这是公开 GitHub Pages 发布仓库，只包含已脱敏的静态站点产物。站点把会议纪要整理成“道、法、术、器、势”五维拆解，方便按主题、维度和文章链接检索。
 
 ## 在线入口
