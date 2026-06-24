@@ -1,68 +1,74 @@
 # 道法术器势会议拆解站（公开发布版）
 
 <!-- SIUSER-REPO-GUIDE:START -->
-## Repository Guide
+## 项目介绍 / Project Introduction
 
-### What This Repository Does
-
+### 中文
 公开 GitHub Pages：道法术器势会议拆解站，含文章、维度索引、配置页和在线链接
 
-### Online Entry Points
+### English
+Public GitHub Pages site for Shu-Fa-Dao-Qi-Shi meeting breakdowns, including articles, dimension indexes, config pages, and online links.
 
-- GitHub repository: https://github.com/siuserxiaowei/meeting-minutes-shu-fa-dao-qi-shi-pages
-- Live / GitHub Pages: https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/
-- Default branch: `main`
-- Primary language: `HTML`
+## 使用方式 / Usage
 
-### How To Read / Learn This Repository
+### 中文
+1. 优先打开在线入口或本地静态服务查看最终页面。
+2. 内容型仓库通常从 `README.md`、`docs/`、`data/` 或 `content/` 开始阅读。
+3. 更新资料后，重新生成或刷新静态页面，并检查链接、图片和文字是否正常。
 
-1. 先读本 README，确认项目目标、在线入口和本地运行方式。
-2. 打开上方 Live / GitHub Pages 链接，先从最终效果理解项目。
-3. 优先阅读线上页面或 `index.html`，再看 `data/`、`assets/`、`scripts/` 等生成材料。
-4. 如果要修改内容，先小范围改动，再运行本 README 中的验证命令。
+### English
+1. Start with the live link or a local static server to view the final page.
+2. For content repositories, begin with `README.md`, `docs/`, `data/`, or `content/`.
+3. After updating material, regenerate or refresh the static page and check links, images, and copy.
 
-### Clone This Repository
+## 入口与元信息 / Entry Points & Metadata
+
+- GitHub 仓库 / Repository: https://github.com/siuserxiaowei/meeting-minutes-shu-fa-dao-qi-shi-pages
+- Live / 在线入口：https://siuserxiaowei.github.io/meeting-minutes-shu-fa-dao-qi-shi-pages/
+- 默认分支 / Default branch: `main`
+- 主要语言 / Primary language: `HTML`
+- 可见性 / Visibility: `public`
+- 仓库类型 / Repository type: `source`
+
+## 本地运行 / Local Run
 
 ```bash
 git clone https://github.com/siuserxiaowei/meeting-minutes-shu-fa-dao-qi-shi-pages.git
 cd meeting-minutes-shu-fa-dao-qi-shi-pages
-```
-
-### Run Or View Locally
-
-```bash
 python3 -m http.server 8000
 ```
 
-然后打开 `http://127.0.0.1:8000/`。
+## 仓库结构 / Repository Map
 
-### Repository Map
+| 路径 / Path | 中文说明 | English |
+| --- | --- | --- |
+| `README.md` | 项目入口说明，先读这里。 | Main project entry point and orientation. |
+| `index.html` | 静态站首页或页面入口。 | Static-site homepage or entry page. |
+| `assets` | 图片、样式、数据等资源。 | Images, styles, data, and other assets. |
+| `data` | 数据、索引或结构化内容。 | Data, indexes, or structured content. |
+| `articles` | 项目文件或目录。 | Project file or directory. |
+| `config` | 项目文件或目录。 | Project file or directory. |
+| `dimensions` | 项目文件或目录。 | Project file or directory. |
+| `links` | 项目文件或目录。 | Project file or directory. |
+| `.nojekyll` | 项目文件或目录。 | Project file or directory. |
+| `links.json` | 项目文件或目录。 | Project file or directory. |
 
-| Path | Purpose |
-| --- | --- |
-| `README.md` | 项目入口说明，先读这里。 |
-| `index.html` | 静态站首页或页面入口。 |
-| `data/` | 数据、索引或结构化内容。 |
-| `assets/` | 图片、样式、字体或页面资源。 |
-| `articles/` | 项目目录。 |
-| `config/` | 项目目录。 |
-| `dimensions/` | 项目目录。 |
-| `links.json` | 项目文件。 |
-| `links/` | 项目目录。 |
+## 维护备注 / Maintenance Notes
 
-### Maintenance Notes
+- 中文：当项目目标、在线入口、运行命令或目录结构变化时，同步更新本说明。
+- English: Keep this guide updated when the project purpose, live link, run commands, or structure changes.
+- 中文：修改代码、数据或生成页面后，优先运行相关构建、测试或校验命令。
+- English: After changing code, data, or generated pages, run the relevant build, test, or validation command.
 
-- Keep this README in sync when the project purpose, live link, or run commands change.
-- Prefer small, focused commits when changing code, data, or generated pages.
-- Run the relevant build or validation command before publishing changes.
-- If this is a generated/static archive, update the source data first, then regenerate the public files.
+## 安全与隐私 / Safety & Privacy
 
-### Privacy And Safety
-
-- Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
-- Keep private source material out of public GitHub Pages output unless it has been explicitly cleared for publication.
-- When in doubt, run a quick secret scan such as `rg -n "token|secret|password|access_key|authorization"` before pushing.
+- 中文：不要提交 API key、token、密码、cookie、私有链接或内部账号资料。
+- English: Do not commit API keys, tokens, passwords, cookies, private URLs, or internal account data.
+- 中文：公开 GitHub Pages 前，确认资料已脱敏并允许公开。
+- English: Before publishing GitHub Pages output, confirm the material is redacted and cleared for public release.
 <!-- SIUSER-REPO-GUIDE:END -->
+
+
 
 这是公开 GitHub Pages 发布仓库，只包含已脱敏的静态站点产物。站点把会议纪要整理成“道、法、术、器、势”五维拆解，方便按主题、维度和文章链接检索。
 
