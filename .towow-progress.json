@@ -1,0 +1,27 @@
+{
+  "title": "道法术器势会议拆解进度",
+  "subtitle": "把飞书 / 妙记会议沉淀为可复盘、可检索、可发布的知识资产",
+  "lang": "zh",
+  "modules": {
+    "articles": "拆解文章",
+    "dimensions": "道法术器势维度",
+    "data": "数据索引",
+    "links": "链接入口",
+    "assets": "页面资源",
+    "config": "配置与导航"
+  },
+  "colors": {
+    "articles": "#2563EB",
+    "dimensions": "#7C3AED",
+    "data": "#0F766E",
+    "links": "#EA580C",
+    "assets": "#475569",
+    "config": "#B45309"
+  },
+  "output": "docs/progress.html",
+  "branding": true,
+  "accent_color": "#7C3AED",
+  "accent_secondary": "#EA580C",
+  "background": "#F8F5EF",
+  "font_family": "\"Avenir Next\", \"PingFang SC\", \"Noto Sans SC\", sans-serif"
+}
