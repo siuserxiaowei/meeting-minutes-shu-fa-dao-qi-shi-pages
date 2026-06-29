@@ -5336,5 +5336,65 @@
     "public": false,
     "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
     "supplemental": true
+  },
+  {
+    "fileName": "飞书智能纪要-第一次对账-20260628-2159.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 4560,
+    "groupId": "m237",
+    "groupName": "飞书智能纪要-第一次对账-20260628-2159",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
+    "supplemental": true
+  },
+  {
+    "fileName": "飞书智能纪要-网络行程及业务模式讨论-20260629-0130.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 4428,
+    "groupId": "m238",
+    "groupName": "飞书智能纪要-网络行程及业务模式讨论-20260629-0130",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
+    "supplemental": true
+  },
+  {
+    "fileName": "飞书智能纪要-商业项目与投资机会讨论-20260629-0136.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 4342,
+    "groupId": "m239",
+    "groupName": "飞书智能纪要-商业项目与投资机会讨论-20260629-0136",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
+    "supplemental": true
+  },
+  {
+    "fileName": "飞书智能纪要-AI产品业务及变现问题讨论-分段1-20260629-0150.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 4917,
+    "groupId": "m240",
+    "groupName": "飞书智能纪要-AI产品业务及变现问题讨论-分段1-20260629-0150",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
+    "supplemental": true
+  },
+  {
+    "fileName": "飞书智能纪要-AI产品业务及变现问题讨论-分段2-20260629-0215.md",
+    "extension": "md",
+    "kind": "guide",
+    "kindLabel": "导读",
+    "size": 4767,
+    "groupId": "m241",
+    "groupName": "飞书智能纪要-AI产品业务及变现问题讨论-分段2-20260629-0215",
+    "public": false,
+    "publicNote": "raw Feishu source is not copied into docs; only sanitized derived fields are public",
+    "supplemental": true
   }
 ]
